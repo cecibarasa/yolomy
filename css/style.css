@@ -1,0 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    background-image: url("../assets/backgrounds/hero.jpg");
+    height: 800px;
+}
+
+.jumbotron-fluid {
+    height: 100px;
+    padding-top: 50px;
+}
