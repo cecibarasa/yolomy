@@ -14,5 +14,5 @@ Yolomy is a website that offers dated fashion designs
 `MARKDOWN`
 ## [Support and contact details](https://www.linkedin.com/in/cecilia-barasa-4a8311195/)
 ### [License](https://github.com/cecibarasa/yolomy/blob/master/license.md)
-*{## [Support and contact details](https://www.linkedin.com/in/cecilia-barasa-4a8311195/)}*
+*{[Support and contact details](https://www.linkedin.com/in/cecilia-barasa-4a8311195/)}*
 Copyright (c) 2020 **Cecilia Barasa**
