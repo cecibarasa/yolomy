@@ -15,12 +15,29 @@ html {
 .about {
     background-image: url("../assets/backgrounds/about.jpg");
     height: 400px;
+    padding-top: 30px;
 }
 
 .aboutus {
     border-style: solid;
-    border-color: lightyellow;
     padding: 50px;
     text-align: center;
     padding: 100px;
+    color: white;
+    border-color: rgba(205, 228, 4, 0.507);
+}
+
+.there {
+    background-color: rgb(4, 39, 39);
+    color: white;
+}
+
+.footer {
+    padding-top: 30px;
+    background-color: rgb(2, 27, 27);
+    color: white;
+}
+
+.pictures {
+    padding: 50px;
 }
