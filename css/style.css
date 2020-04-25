@@ -11,3 +11,16 @@ html {
     height: 100px;
     padding-top: 50px;
 }
+
+.about {
+    background-image: url("../assets/backgrounds/about.jpg");
+    height: 400px;
+}
+
+.aboutus {
+    border-style: solid;
+    border-color: lightyellow;
+    padding: 50px;
+    text-align: center;
+    padding: 100px;
+}
